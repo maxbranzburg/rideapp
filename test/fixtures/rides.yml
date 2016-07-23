@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  request_time: 2016-07-22 20:42:46
+  est_wait_time: 1
+  pickup_time: 2016-07-22 20:42:46
+  pickup_pax: 1
+  pickup_address: MyString
+  dropoff_address: MyString
+  est_trip_duration_at_pickup: 1
+  pickups_en_route: 1
+  dropoffs_en_route: 1
+  dropoff_time: 2016-07-22 20:42:46
+  cost_before_discounts: 1.5
+  cost_after_discounts: 1.5
+  actual_wait_time: 1.5
+  actual_trip_duration: 1.5
+
+two:
+  type: 
+  request_time: 2016-07-22 20:42:46
+  est_wait_time: 1
+  pickup_time: 2016-07-22 20:42:46
+  pickup_pax: 1
+  pickup_address: MyString
+  dropoff_address: MyString
+  est_trip_duration_at_pickup: 1
+  pickups_en_route: 1
+  dropoffs_en_route: 1
+  dropoff_time: 2016-07-22 20:42:46
+  cost_before_discounts: 1.5
+  cost_after_discounts: 1.5
+  actual_wait_time: 1.5
+  actual_trip_duration: 1.5
